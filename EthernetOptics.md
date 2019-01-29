@@ -3,6 +3,10 @@
  - [Nanog.org Optics Latest Trends](https://www.nanog.org/sites/default/files/Latest_Trends.pdf)
  - [Data center networking](http://forum.ix.br/files/apresentacao/arquivo/134/04%2012%20%2015%2030%20Greg.pdf)
 
+## Open19 
+ - [Open19 and Tomahawk 3](https://www.open19.org/wp-content/uploads/2018/07/16LTIntegration.pdf)
+
+
 ## Open Optical Monitoring
  - [Open Optical Monitoring](http://ix.br/doc/ixforum/10/ixbrforum10_day1_Finisar_Update_on_DC_Optics_IXForum2016_RevB.pdf)
  - [github for OOM](https://github.com/opencomputeproject/oom)
